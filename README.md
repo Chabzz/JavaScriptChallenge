@@ -13,8 +13,8 @@ Projects
 3. Clock
     A clock that displays local time
 
-4. To-Do app
-    Enter items that displays in a list
+4. Dark mdoe toggle
+   Toggles darkmode
     
 5. Tax calculator
     Calculate tax (15%) on x value
