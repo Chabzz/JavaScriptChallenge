@@ -27,7 +27,7 @@ body
     display: none;
 }
 
-.container.active{
+.popup-container.active{
     display:flex;
 }
 
